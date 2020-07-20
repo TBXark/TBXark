@@ -1,4 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tbxark&title_color=222&text_color=333" />
+<a href="https://github.com/tbxark">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tbxark&title_color=222&text_color=333" />
+</a>
 
 ### Hi there 👋, I'm TBXark.
 
