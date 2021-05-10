@@ -6,5 +6,5 @@
 
 <a href="https://github.com/tbxark">
   <img height="180em" src="https://tbxark-github-stats.vercel.app/api?username=tbxark&show_icons=true&theme=dark&count_private=true" alt="Appleboy's github stats" />
-  <img height="180em" src="https://tbxark-github-stats.vercel.app/api/top-langs/?username=tbxark&theme=dark&layout=compact&hide=html&exclude_repo=bg" alt="Appleboy's github top languages" />
+  <img height="180em" src="https://tbxark-github-stats.vercel.app/api/top-langs/?username=tbxark&theme=dark&layout=compact&hide=html,css&exclude_repo=bg" alt="Appleboy's github top languages" />
 </a>
