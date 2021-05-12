@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm TBXark.
 
-[![Blog](https://img.shields.io/badge/Blog-111.svg)](https://www.tbxark.com)
+[![Blog](https://img.shields.io/badge/Blog-444.svg)](https://www.tbxark.com)
 [![Weibo](https://img.shields.io/badge/Weibo-ff2000.svg)](https://weibo.com/tbxark)
 [![Twitter](https://img.shields.io/badge/Twitter-1190df.svg)](https://twitter.com/tbxark)
 
