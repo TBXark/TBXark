@@ -6,5 +6,5 @@
 [![Github](https://img.shields.io/github/followers/tbxark?label=Follow&style=social)](https://github.com/tbxark)
 
 
-![TBXark's github top languages](https://tbxark-github-stats.vercel.app/api/top-langs/?username=tbxark&theme=dark&hide=html,css&exclude_repo=bg)
+![TBXark's github top languages](https://tbxark-github-stats.vercel.app/api/top-langs/?username=tbxark&theme=dark&hide=html,css)
 ![TBXark's github stats](https://tbxark-github-stats.vercel.app/api?username=tbxark&show_icons=true&theme=dark&count_private=true&line_height=40)
