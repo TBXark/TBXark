@@ -9,7 +9,7 @@
 
 - ### Swift
   - **[TrieRouter](https://github.com/TBXark/TrieRouter)** : Simple application routing framework  
-  - **[xcode-tool](https://github.com/TBXark/xcode-tool)** : A collection of useful tools for an xcode project
+  - **[xcode-tool](https://github.com/TBXark/xcode-tool)** : A collection of useful tools for xcode project
 - ### Golang
   - **[mweb-export](https://github.com/TBXark/mweb-export)** : mweb file directory generation tool
 - ### JavaScript
