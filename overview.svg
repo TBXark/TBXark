@@ -42,7 +42,7 @@ td {
   padding: 0.25em;
   font-size: 12px;
   line-height: 18px;
-  color: rgb(145, 145, 145);
+  color: rgb(102, 160, 248);
 }
 
 tr {
