@@ -17,8 +17,5 @@
   - **[github-backup](https://github.com/TBXark/github-backup)** : Backup all github repo to local
 
 
-##
 
-
-![TBXark's github top languages](https://tbxark-github-stats.vercel.app/api/top-langs/?username=tbxark&theme=dark&hide=html,css)
-![TBXark's github stats](https://tbxark-github-stats.vercel.app/api?username=tbxark&show_icons=true&theme=dark&count_private=true&line_height=40)
+![overview](overview.svg) ![languages](languages.svg)
