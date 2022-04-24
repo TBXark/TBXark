@@ -5,6 +5,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1190df.svg)](https://twitter.com/tbxark)
 [![Github](https://img.shields.io/github/followers/tbxark?label=Follow&style=social)](https://github.com/tbxark)
 
+
 ## Recent repos
 
 - ### Swift
@@ -19,7 +20,25 @@
   - **[testmail-viewer](https://github.com/TBXark/testmail-viewer)** : Testmail online preview tool
   - **[github-backup](https://github.com/TBXark/github-backup)** : Backup all github repo to local
   
-____
 
+## Github Stats
 
 ![overview](./status/generated/overview.svg) ![languages](./status/generated/languages.svg)
+
+
+## Languages and Tools
+
+<img align="left" alt="swift" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/swift/swift.svg">
+<img align="left" alt="javascript" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/javascript/javascript.svg">
+<img align="left" alt="node" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/node/node.svg">
+<img align="left" alt="java" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/java/java.svg">
+<img align="left" alt="go" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/go/go.svg">
+<img align="left" alt="kotlin" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/kotlin/kotlin.svg">
+<img align="left" alt="python" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/python/python.svg">
+<img align="left" alt="dart" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/dart/dart.svg">
+<img align="left" alt="bash" height ="42px"  src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/bash/bash-colored.svg"/>
+<img align="left" alt="c" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/c/c.svg">
+<img align="left" alt="flutter" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/flutter/flutter.svg">
+<img align="left" alt="html" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/html/html.svg">
+<img align="left" alt="react" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/react/react.svg">
+<img align="left" alt="spring" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/spring/spring.svg">
