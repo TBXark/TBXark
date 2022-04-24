@@ -34,7 +34,6 @@
 <img align="left" alt="java" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/java/java.svg">
 <img align="left" alt="go" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/go/go.svg">
 <img align="left" alt="kotlin" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/kotlin/kotlin.svg">
-<img align="left" alt="python" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/python/python.svg">
 <img align="left" alt="dart" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/dart/dart.svg">
 <img align="left" alt="bash" height ="42px"  src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/bash/bash-colored.svg"/>
 <img align="left" alt="c" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/c/c.svg">
