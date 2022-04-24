@@ -22,4 +22,4 @@
 ____
 
 
-![overview](overview.svg) ![languages](languages.svg)
+![overview](./status/generated/overview.svg) ![languages](./status/generated/languages.svg)
