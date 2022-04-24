@@ -23,7 +23,7 @@
 
 ## Github Stats
 
-![overview](https://raw.githubusercontent.com/tbxark-archive/.github/master/status/generated/overview.svg) ![languages](https://raw.githubusercontent.com/tbxark-archive/.github/master/status/generated/languages.svg)
+[![overview](https://raw.githubusercontent.com/tbxark-archive/.github/master/status/generated/overview.svg)](https://github.com/TBXark) [![languages](https://raw.githubusercontent.com/tbxark-archive/.github/master/status/generated/languages.svg)](https://github.com/TBXark)
 
 
 ## Languages and Tools
