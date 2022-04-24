@@ -41,13 +41,15 @@ jobs:
     # Install dependencies with `pip`
     - name: Install requirements
       run: |
+        cd ./status
         python3 -m pip install --upgrade pip setuptools wheel
-        python3 -m pip install -r ./status/requirements.txt
+        python3 -m pip install -r requirements.txt
     # Generate all statistics images
     - name: Generate images
       run: |
+        cd ./status
         python3 --version
-        python3 ./status/generate_images.py
+        python3 generate_images.py
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         EXCLUDED: ${{ secrets.EXCLUDED }}
