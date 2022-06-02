@@ -63,9 +63,5 @@ jobs:
     # Commits all changed files to the repository
     - name: Commit to the repo
       run: |
-        git config --global user.name "tbxark-bot"
-        git config --global user.email "github-stats-bot@tbxark.com"
-        git add .
-        # "echo" returns true so the build succeeds, even if no changed files
-        git commit -m 'Update generated files' || echo
-        git push
+        chmod +x ./status/push.sh
+        sh ./status/push.sh
