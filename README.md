@@ -11,15 +11,15 @@
 ## Recent repos
 
 - ### Swift
-  - **[TrieRouter](https://github.com/TBXark/TrieRouter)** : Simple application routing framework  
-  - **[xcode-tool](https://github.com/TBXark/xcode-tool)** : A collection of useful tools for xcode project
+  - **[TrieRouter](https://github.com/TBXark/TrieRouter)** : A simple framework for application routing.
+  - **[xcode-tool](https://github.com/TBXark/xcode-tool)** : A collection of useful tools for Xcode projects.
 - ### Golang
-  - **[mweb-export](https://github.com/TBXark/mweb-export)** : mweb file directory generation tool
+  - **[mweb-export](https://github.com/TBXark/mweb-export)** : A tool for generating directories from MWeb files.
 - ### JavaScript
-  - **[cloudflare-worker-adapter](https://github.com/TBXark/cloudflare-worker-adapter)** : Run your script without cloudflare workers.
-  - **[rmock](https://github.com/TBXark/rmock)** : Modify the http json response, no need for http capture and MitM.
-  - **[testmail-viewer](https://github.com/TBXark/testmail-viewer)** : Testmail online preview tool
-  - **[github-backup](https://github.com/TBXark/github-backup)** : Backup all github repo to local
+  - **[cloudflare-worker-adapter](https://github.com/TBXark/cloudflare-worker-adapter)** : Run your script without Cloudflare Workers.
+  - **[rmock](https://github.com/TBXark/rmock)** : Modify HTTP JSON responses without needing HTTP capture and MitM.
+  - **[testmail-viewer](https://github.com/TBXark/testmail-viewer)** : An online preview tool for Testmail.
+  - **[github-backup](https://github.com/TBXark/github-backup)** : A tool for backing up all GitHub repositories locally.
   
 
 ## Github Stats
