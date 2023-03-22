@@ -16,7 +16,7 @@
 - ### Golang
   - **[mweb-export](https://github.com/TBXark/mweb-export)** : A tool for generating directories from MWeb files.
 - ### JavaScript
-  - **[chatGPT-telegram-workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)** : A ChatGPT Telegram bot based on Cloudflare Workers.
+  - **[chatgpt-telegram-workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)** : A ChatGPT Telegram bot based on Cloudflare Workers.
   - **[cloudflare-worker-adapter](https://github.com/TBXark/cloudflare-worker-adapter)** : Run your script without Cloudflare Workers.
   - **[rmock](https://github.com/TBXark/rmock)** : Modify HTTP JSON responses without needing HTTP capture and MitM.
   - **[testmail-viewer](https://github.com/TBXark/testmail-viewer)** : An online preview tool for Testmail.
