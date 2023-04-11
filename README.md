@@ -15,6 +15,8 @@
   - **[xcode-tool](https://github.com/TBXark/xcode-tool)** : A collection of useful tools for Xcode projects.
 - ### Golang
   - **[mweb-export](https://github.com/TBXark/mweb-export)** : A tool for generating directories from MWeb files.
+- ## Python
+  - **[poe-telegram-bot](https://github.com/TBXark/poe-telegram-bot)** : A lightweight poe chatbot for telegram
 - ### JavaScript
   - **[chatgpt-telegram-workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)** : A ChatGPT Telegram bot based on Cloudflare Workers.
   - **[cloudflare-worker-adapter](https://github.com/TBXark/cloudflare-worker-adapter)** : Run your script without Cloudflare Workers.
