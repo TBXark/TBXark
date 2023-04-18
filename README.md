@@ -14,6 +14,7 @@
   - **[TrieRouter](https://github.com/TBXark/TrieRouter)** : A simple framework for application routing.
   - **[xcode-tool](https://github.com/TBXark/xcode-tool)** : A collection of useful tools for Xcode projects.
 - ### Golang
+  - **[chat-bot-go](https://github.com/TBXark/chat-bot-go)** : A lightweight chatgpt bot for telegram
   - **[mweb-export](https://github.com/TBXark/mweb-export)** : A tool for generating directories from MWeb files.
 - ## Python
   - **[poe-telegram-bot](https://github.com/TBXark/poe-telegram-bot)** : A lightweight poe chatbot for telegram
