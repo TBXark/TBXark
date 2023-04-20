@@ -21,9 +21,6 @@
 - ### JavaScript
   - **[chatgpt-telegram-workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)** : A ChatGPT Telegram bot based on Cloudflare Workers.
   - **[cloudflare-worker-adapter](https://github.com/TBXark/cloudflare-worker-adapter)** : Run your script without Cloudflare Workers.
-  - **[chatgpt-prompt-helper](https://github.com/TBXark/chatgpt-prompt-helper)** : A Tampermonkey script for quickly copying prompts in the web version of ChatGPT.
-  - **[rmock](https://github.com/TBXark/rmock)** : Modify HTTP JSON responses without needing HTTP capture and MitM.
-  - **[testmail-viewer](https://github.com/TBXark/testmail-viewer)** : An online preview tool for Testmail.
   - **[github-backup](https://github.com/TBXark/github-backup)** : A tool for backing up all GitHub repositories locally.
   
 
