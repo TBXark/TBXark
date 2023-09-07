@@ -6,41 +6,9 @@
 [![Github](https://img.shields.io/github/followers/tbxark?label=Follow&style=social)](https://github.com/tbxark)
 
 
-> Archived projects can be found at [@tbxark-archive](https://github.com/tbxark-archive)
-
-## Recent repos
-
-- ### Swift
-  - **[TrieRouter](https://github.com/TBXark/TrieRouter)** : A simple framework for application routing.
-  - **[xcode-tool](https://github.com/TBXark/xcode-tool)** : A collection of useful tools for Xcode projects.
-- ### Golang
-  - **[chat-bot-go](https://github.com/TBXark/chat-bot-go)** : A lightweight chatgpt bot for telegram
-  - **[mweb-export](https://github.com/TBXark/mweb-export)** : A tool for generating directories from MWeb files.
-- ## Python
-  - **[poe-telegram-bot](https://github.com/TBXark/poe-telegram-bot)** : A lightweight poe chatbot for telegram
-- ### JavaScript
-  - **[chatgpt-telegram-workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)** : A ChatGPT Telegram bot based on Cloudflare Workers.
-  - **[cloudflare-worker-adapter](https://github.com/TBXark/cloudflare-worker-adapter)** : Run your script without Cloudflare Workers.
-  - **[github-backup](https://github.com/TBXark/github-backup)** : A tool for backing up all GitHub repositories locally.
-  
-
 ## Github Stats
 
 [![overview](https://raw.githubusercontent.com/tbxark-archive/.github/master/status/generated/overview.svg)](https://github.com/TBXark/TBXark) [![languages](https://raw.githubusercontent.com/tbxark-archive/.github/master/status/generated/languages.svg)](https://github.com/TBXark/TBXark)
 
 
-## Languages and Tools
-
-<img align="left" alt="swift" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/swift/swift.svg">
-<img align="left" alt="javascript" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/javascript/javascript.svg">
-<img align="left" alt="node" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/node/node.svg">
-<img align="left" alt="java" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/java/java.svg">
-<img align="left" alt="go" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/go/go.svg">
-<img align="left" alt="kotlin" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/kotlin/kotlin.svg">
-<img align="left" alt="dart" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/dart/dart.svg">
-<img align="left" alt="bash" height ="42px"  src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/bash/bash-colored.svg"/>
-<img align="left" alt="c" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/c/c.svg">
-<img align="left" alt="flutter" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/flutter/flutter.svg">
-<img align="left" alt="html" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/html/html.svg">
-<img align="left" alt="react" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/react/react.svg">
-<img align="left" alt="spring" height ="42px" src="https://raw.githubusercontent.com/tbxark-archive/README_icons/main/language_and_tools/square/spring/spring.svg">
+> Archived projects can be found at [@tbxark-archive](https://github.com/tbxark-archive)
