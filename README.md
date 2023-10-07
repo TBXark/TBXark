@@ -11,4 +11,4 @@
 [![overview](https://raw.githubusercontent.com/tbxark-archive/.github/master/status/generated/overview.svg)](https://github.com/TBXark/TBXark) [![languages](https://raw.githubusercontent.com/tbxark-archive/.github/master/status/generated/languages.svg)](https://github.com/TBXark/TBXark)
 
 
-> Archived projects can be found at [@tbxark-archive](https://github.com/tbxark-archive)
+> Archived projects can be found at [@tbxark-arc](https://github.com/tbxark-arc)
