@@ -11,18 +11,20 @@ jobs:
       with:
         repository: TBXark/TBXark
         ref: stats
+        fetch-depth: 1
 
-    - name: Set up Go
-      uses: actions/setup-go@v4
-      with:
-        go-version: '1.23'
-    
-    - name: Install generate-stats
-      run: go install github.com/tbxark/github-status@latest
+    - name: Download generate-stats binary
+      run: |
+        if [ "$(uname -m)" = "x86_64" ]; then
+          curl -L -o github-status.tar.gz https://github.com/TBXark/github-status/releases/download/0.0.1/github-status_linux_x86.tar.gz
+        else
+          curl -L -o github-status.tar.gz https://github.com/TBXark/github-status/releases/download/0.0.1/github-status_linux_arm64.tar.gz
+        fi
+        tar -xzf github-status.tar.gz
+        chmod +x github-status
 
     - name: Generate Stats
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         CUSTOM_ACTOR: ${{ secrets.CUSTOM_ACTOR }}
@@ -34,12 +36,11 @@ jobs:
         IGNORE_ARCHIVED_REPOS: ${{ secrets.IGNORE_ARCHIVED_REPOS }}
         IGNORE_CONTRIBUTED_TO_REPOS: ${{ secrets.IGNORE_CONTRIBUTED_TO_REPOS }}
         WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
-      run: github-status --output .
+      run: ./github-status --output .
 
     - name: Commit and push if changed
       run: |
-        git config --global user.email "generate-stats@tbxark.com"
-        git config --global user.name "generate-stats"
-        git add .
-        git commit -m "chore: Update stats" --quiet > /dev/null 2>&1 || exit 0
-        git push --set-upstream origin stats --quiet > /dev/null 2>&1 || exit 0
+        git config --global user.name 'generate-stats'
+        git config --global user.email 'generate-stats@tbxark.com'
+        git add overview.svg languages.svg
+        git diff --staged --quiet || git commit -m "chore: Update stats" && git push
