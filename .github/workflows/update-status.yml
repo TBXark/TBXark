@@ -21,7 +21,7 @@ jobs:
       run: go install github.com/tbxark/github-status@latest
 
     - name: Generate Stats
-      run: generate-stats -o .
+      run: github-status --output .
 
     - name: Commit and push if changed
       run: |
