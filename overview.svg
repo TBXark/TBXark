@@ -91,7 +91,7 @@
                                 </svg>
                                 Stars
                             </td>
-                            <td>7671</td>
+                            <td>2</td>
                         </tr>
                         <tr style="animation-delay: 150ms">
                             <td class='label'>
@@ -102,7 +102,7 @@
                                 </svg>
                                 Forks
                             </td>
-                            <td>1351</td>
+                            <td>0</td>
                         </tr>
                         <tr style="animation-delay: 300ms">
                             <td class='label'>
@@ -113,7 +113,7 @@
                                 </svg>
                                 All-time contributions
                             </td>
-                            <td>3345</td>
+                            <td>0</td>
                         </tr>
                         <tr style="animation-delay: 450ms">
                             <td class='label'>
@@ -124,7 +124,7 @@
                                 </svg>
                                 Lines of code changed
                             </td>
-                            <td>4186219</td>
+                            <td>4961</td>
                         </tr>
                         <tr style="animation-delay: 600ms">
                             <td class='label'>
@@ -135,7 +135,7 @@
                                 </svg>
                                 Repository views (past two weeks)
                             </td>
-                            <td>3179</td>
+                            <td>0</td>
                         </tr>
                         <tr style="animation-delay: 750ms">
                             <td class='label'>
@@ -146,7 +146,7 @@
                                 </svg>
                                 Repositories with contributions
                             </td>
-                            <td>132</td>
+                            <td>1</td>
                         </tr>
                         </tbody>
                     </table>
