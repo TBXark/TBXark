@@ -18,6 +18,19 @@ jobs:
         go-version: '1.23'
     
     - name: Install generate-stats
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        CUSTOM_ACTOR: ${{ secrets.CUSTOM_ACTOR }}
+        EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
+        EXCLUDE_LANGS: ${{ secrets.EXCLUDE_LANGS }}
+        INCLUDE_OWNER: ${{ secrets.INCLUDE_OWNER }}
+        IGNORE_PRIVATE_REPOS: ${{ secrets.IGNORE_PRIVATE_REPOS }}
+        IGNORE_FORKED_REPOS: ${{ secrets.IGNORE_FORKED_REPOS }}
+        IGNORE_ARCHIVED_REPOS: ${{ secrets.IGNORE_ARCHIVED_REPOS }}
+        IGNORE_CONTRIBUTED_TO_REPOS: ${{ secrets.IGNORE_CONTRIBUTED_TO_REPOS }}
+        WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
       run: go install github.com/tbxark/github-status@latest
 
     - name: Generate Stats
