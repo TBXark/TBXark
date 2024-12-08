@@ -91,7 +91,7 @@
                                 </svg>
                                 Stars
                             </td>
-                            <td>7672</td>
+                            <td>7673</td>
                         </tr>
                         <tr style="animation-delay: 150ms">
                             <td class='label'>
@@ -113,7 +113,7 @@
                                 </svg>
                                 All-time contributions
                             </td>
-                            <td>3366</td>
+                            <td>3368</td>
                         </tr>
                         <tr style="animation-delay: 450ms">
                             <td class='label'>
@@ -124,7 +124,7 @@
                                 </svg>
                                 Lines of code changed
                             </td>
-                            <td>4186776</td>
+                            <td>4186972</td>
                         </tr>
                         <tr style="animation-delay: 600ms">
                             <td class='label'>
@@ -135,7 +135,7 @@
                                 </svg>
                                 Repository views (past two weeks)
                             </td>
-                            <td>3228</td>
+                            <td>3227</td>
                         </tr>
                         <tr style="animation-delay: 750ms">
                             <td class='label'>
