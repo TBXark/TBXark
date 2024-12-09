@@ -16,9 +16,9 @@ jobs:
     - name: Download generate-stats binary
       run: |
         if [ "$(uname -m)" = "x86_64" ]; then
-          curl -L -o github-status.tar.gz https://github.com/TBXark/github-status/releases/download/0.0.1/github-status_linux_x86.tar.gz
+          curl -L -o github-status.tar.gz https://github.com/TBXark/github-status/releases/download/0.0.2/github-status_linux_x86.tar.gz
         else
-          curl -L -o github-status.tar.gz https://github.com/TBXark/github-status/releases/download/0.0.1/github-status_linux_arm64.tar.gz
+          curl -L -o github-status.tar.gz https://github.com/TBXark/github-status/releases/download/0.0.2/github-status_linux_arm64.tar.gz
         fi
         tar -xzf github-status.tar.gz
         chmod +x github-status
