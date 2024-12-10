@@ -100,9 +100,9 @@
                             
                                 <span style="background-color:#F05138; width:35.729%;" class="progress-item"/>
                             
-                                <span style="background-color:#00ADD8; width:27.969%;" class="progress-item"/>
+                                <span style="background-color:#00ADD8; width:27.971%;" class="progress-item"/>
                             
-                                <span style="background-color:#3178c6; width:18.309%;" class="progress-item"/>
+                                <span style="background-color:#3178c6; width:18.308%;" class="progress-item"/>
                             
                                 <span style="background-color:#f1e05a; width:9.389%;" class="progress-item"/>
                             
@@ -155,7 +155,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Go</span>
-                                <span class="percent">27.969%</span>
+                                <span class="percent">27.971%</span>
                             </li>
                         
                             <li style="animation-delay: 300ms;">
@@ -164,7 +164,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">TypeScript</span>
-                                <span class="percent">18.309%</span>
+                                <span class="percent">18.308%</span>
                             </li>
                         
                             <li style="animation-delay: 450ms;">
