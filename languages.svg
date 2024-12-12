@@ -98,29 +98,29 @@
                     <div>
                         <span class="progress">
                             
-                                <span style="background-color:#F05138; width:35.631%;" class="progress-item"/>
+                                <span style="background-color:#F05138; width:35.610%;" class="progress-item"/>
                             
-                                <span style="background-color:#00ADD8; width:28.169%;" class="progress-item"/>
+                                <span style="background-color:#00ADD8; width:28.153%;" class="progress-item"/>
                             
-                                <span style="background-color:#3178c6; width:18.258%;" class="progress-item"/>
+                                <span style="background-color:#3178c6; width:18.305%;" class="progress-item"/>
                             
-                                <span style="background-color:#f1e05a; width:9.363%;" class="progress-item"/>
+                                <span style="background-color:#f1e05a; width:9.358%;" class="progress-item"/>
                             
-                                <span style="background-color:#3572A5; width:2.683%;" class="progress-item"/>
+                                <span style="background-color:#3572A5; width:2.682%;" class="progress-item"/>
                             
                                 <span style="background-color:#427819; width:1.025%;" class="progress-item"/>
                             
                                 <span style="background-color:#701516; width:0.978%;" class="progress-item"/>
                             
-                                <span style="background-color:#41b883; width:0.871%;" class="progress-item"/>
+                                <span style="background-color:#41b883; width:0.870%;" class="progress-item"/>
                             
                                 <span style="background-color:#89e051; width:0.848%;" class="progress-item"/>
                             
                                 <span style="background-color:#00B4AB; width:0.433%;" class="progress-item"/>
                             
-                                <span style="background-color:#f0c040; width:0.382%;" class="progress-item"/>
+                                <span style="background-color:#f0c040; width:0.381%;" class="progress-item"/>
                             
-                                <span style="background-color:#384d54; width:0.372%;" class="progress-item"/>
+                                <span style="background-color:#384d54; width:0.371%;" class="progress-item"/>
                             
                                 <span style="background-color:#a52a22; width:0.274%;" class="progress-item"/>
                             
@@ -146,7 +146,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Swift</span>
-                                <span class="percent">35.631%</span>
+                                <span class="percent">35.610%</span>
                             </li>
                         
                             <li style="animation-delay: 150ms;">
@@ -155,7 +155,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Go</span>
-                                <span class="percent">28.169%</span>
+                                <span class="percent">28.153%</span>
                             </li>
                         
                             <li style="animation-delay: 300ms;">
@@ -164,7 +164,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">TypeScript</span>
-                                <span class="percent">18.258%</span>
+                                <span class="percent">18.305%</span>
                             </li>
                         
                             <li style="animation-delay: 450ms;">
@@ -173,7 +173,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">JavaScript</span>
-                                <span class="percent">9.363%</span>
+                                <span class="percent">9.358%</span>
                             </li>
                         
                             <li style="animation-delay: 600ms;">
@@ -182,7 +182,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Python</span>
-                                <span class="percent">2.683%</span>
+                                <span class="percent">2.682%</span>
                             </li>
                         
                             <li style="animation-delay: 750ms;">
@@ -209,7 +209,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Vue</span>
-                                <span class="percent">0.871%</span>
+                                <span class="percent">0.870%</span>
                             </li>
                         
                             <li style="animation-delay: 1200ms;">
@@ -236,7 +236,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Smarty</span>
-                                <span class="percent">0.382%</span>
+                                <span class="percent">0.381%</span>
                             </li>
                         
                             <li style="animation-delay: 1650ms;">
@@ -245,7 +245,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Dockerfile</span>
-                                <span class="percent">0.372%</span>
+                                <span class="percent">0.371%</span>
                             </li>
                         
                             <li style="animation-delay: 1800ms;">
