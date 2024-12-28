@@ -44,18 +44,9 @@
             margin-right: 2ch;
             align-items: center;
             flex-wrap: nowrap;
-            transform: translateX(-500%);
-            animation-duration: 1s;
-            animation-name: slideIn;
-            animation-function: ease-in-out;
-            animation-fill-mode: forwards;
         }
 
-        @keyframes slideIn {
-            to {
-                transform: translateX(0);
-            }
-        }
+        
 
         div.ellipsis {
             height: 100%;
