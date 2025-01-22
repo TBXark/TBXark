@@ -89,7 +89,7 @@
                     <div>
                         <span class="progress">
                             
-                                <span style="background-color:#F05138; width:32.712%;" class="progress-item"/>
+                                <span style="background-color:#F05138; width:32.713%;" class="progress-item"/>
                             
                                 <span style="background-color:#00ADD8; width:30.413%;" class="progress-item"/>
                             
@@ -97,7 +97,7 @@
                             
                                 <span style="background-color:#f1e05a; width:6.390%;" class="progress-item"/>
                             
-                                <span style="background-color:#3572A5; width:2.041%;" class="progress-item"/>
+                                <span style="background-color:#3572A5; width:2.042%;" class="progress-item"/>
                             
                                 <span style="background-color:#427819; width:1.136%;" class="progress-item"/>
                             
@@ -137,7 +137,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Swift</span>
-                                <span class="percent">32.712%</span>
+                                <span class="percent">32.713%</span>
                             </li>
                         
                             <li style="animation-delay: 150ms;">
@@ -173,7 +173,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Python</span>
-                                <span class="percent">2.041%</span>
+                                <span class="percent">2.042%</span>
                             </li>
                         
                             <li style="animation-delay: 750ms;">
