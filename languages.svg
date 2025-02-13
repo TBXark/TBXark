@@ -89,17 +89,17 @@
                     <div>
                         <span class="progress">
                             
-                                <span style="background-color:#F05138; width:32.546%;" class="progress-item"/>
+                                <span style="background-color:#F05138; width:32.543%;" class="progress-item"/>
                             
-                                <span style="background-color:#00ADD8; width:30.418%;" class="progress-item"/>
+                                <span style="background-color:#00ADD8; width:30.424%;" class="progress-item"/>
                             
-                                <span style="background-color:#3178c6; width:23.015%;" class="progress-item"/>
+                                <span style="background-color:#3178c6; width:23.013%;" class="progress-item"/>
                             
-                                <span style="background-color:#f1e05a; width:6.357%;" class="progress-item"/>
+                                <span style="background-color:#f1e05a; width:6.356%;" class="progress-item"/>
                             
                                 <span style="background-color:#3572A5; width:2.031%;" class="progress-item"/>
                             
-                                <span style="background-color:#427819; width:1.167%;" class="progress-item"/>
+                                <span style="background-color:#427819; width:1.166%;" class="progress-item"/>
                             
                                 <span style="background-color:#89e051; width:0.952%;" class="progress-item"/>
                             
@@ -137,7 +137,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Swift</span>
-                                <span class="percent">32.546%</span>
+                                <span class="percent">32.543%</span>
                             </li>
                         
                             <li style="animation-delay: 150ms;">
@@ -146,7 +146,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Go</span>
-                                <span class="percent">30.418%</span>
+                                <span class="percent">30.424%</span>
                             </li>
                         
                             <li style="animation-delay: 300ms;">
@@ -155,7 +155,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">TypeScript</span>
-                                <span class="percent">23.015%</span>
+                                <span class="percent">23.013%</span>
                             </li>
                         
                             <li style="animation-delay: 450ms;">
@@ -164,7 +164,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">JavaScript</span>
-                                <span class="percent">6.357%</span>
+                                <span class="percent">6.356%</span>
                             </li>
                         
                             <li style="animation-delay: 600ms;">
@@ -182,7 +182,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Makefile</span>
-                                <span class="percent">1.167%</span>
+                                <span class="percent">1.166%</span>
                             </li>
                         
                             <li style="animation-delay: 900ms;">
