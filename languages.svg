@@ -93,7 +93,7 @@
                             
                                 <span style="background-color:#F05138; width:29.990%;" class="progress-item"/>
                             
-                                <span style="background-color:#3178c6; width:22.666%;" class="progress-item"/>
+                                <span style="background-color:#3178c6; width:22.665%;" class="progress-item"/>
                             
                                 <span style="background-color:#f1e05a; width:6.256%;" class="progress-item"/>
                             
@@ -155,7 +155,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">TypeScript</span>
-                                <span class="percent">22.666%</span>
+                                <span class="percent">22.665%</span>
                             </li>
                         
                             <li style="animation-delay: 450ms;">
