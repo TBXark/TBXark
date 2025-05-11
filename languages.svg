@@ -91,7 +91,7 @@
                             
                                 <span style="background-color:#00ADD8; width:34.373%;" class="progress-item"/>
                             
-                                <span style="background-color:#F05138; width:29.981%;" class="progress-item"/>
+                                <span style="background-color:#F05138; width:29.980%;" class="progress-item"/>
                             
                                 <span style="background-color:#3178c6; width:22.658%;" class="progress-item"/>
                             
@@ -146,7 +146,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Swift</span>
-                                <span class="percent">29.981%</span>
+                                <span class="percent">29.980%</span>
                             </li>
                         
                             <li style="animation-delay: 300ms;">
