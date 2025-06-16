@@ -93,7 +93,7 @@
                             
                                 <span style="background-color:#F05138; width:28.983%;" class="progress-item"/>
                             
-                                <span style="background-color:#3178c6; width:21.905%;" class="progress-item"/>
+                                <span style="background-color:#3178c6; width:21.904%;" class="progress-item"/>
                             
                                 <span style="background-color:#f1e05a; width:6.046%;" class="progress-item"/>
                             
@@ -111,7 +111,7 @@
                             
                                 <span style="background-color:#00B4AB; width:0.393%;" class="progress-item"/>
                             
-                                <span style="background-color:#384d54; width:0.369%;" class="progress-item"/>
+                                <span style="background-color:#384d54; width:0.370%;" class="progress-item"/>
                             
                                 <span style="background-color:#438eff; width:0.194%;" class="progress-item"/>
                             
@@ -155,7 +155,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">TypeScript</span>
-                                <span class="percent">21.905%</span>
+                                <span class="percent">21.904%</span>
                             </li>
                         
                             <li style="animation-delay: 450ms;">
@@ -236,7 +236,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Dockerfile</span>
-                                <span class="percent">0.369%</span>
+                                <span class="percent">0.370%</span>
                             </li>
                         
                             <li style="animation-delay: 1800ms;">
