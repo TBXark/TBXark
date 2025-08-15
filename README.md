@@ -1,8 +1,8 @@
 # Hi there 👋, I'm TBXark.
 
-[![Blog](https://img.shields.io/badge/Blog-444?logo=wireshark)](https://www.tbxark.com)
-[![Weibo](https://img.shields.io/badge/Weibo-ff2000?logo=sinaweibo)](https://weibo.com/tbxark)
-[![Twitter](https://img.shields.io/badge/Twitter-1190df?logo=x)](https://twitter.com/tbxark)
+[![Blog](https://img.shields.io/badge/Blog-444444)](https://www.tbxark.com)
+[![Weibo](https://img.shields.io/badge/Weibo-ff2000)](https://weibo.com/tbxark)
+[![Twitter](https://img.shields.io/badge/Twitter-1190df)](https://twitter.com/tbxark)
 [![Github](https://img.shields.io/github/followers/tbxark?label=Follow&style=social)](https://github.com/tbxark)
 
 
