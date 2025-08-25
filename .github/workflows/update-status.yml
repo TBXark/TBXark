@@ -31,6 +31,7 @@ jobs:
         EXCLUDE_REPOS: ${{ secrets.EXCLUDE_REPOS }}
         EXCLUDE_LANGS: ${{ secrets.EXCLUDE_LANGS }}
         INCLUDE_OWNER: ${{ secrets.INCLUDE_OWNER }}
+        IGNORE_REPO_VIEWS: true
         IGNORE_PRIVATE_REPOS: ${{ secrets.IGNORE_PRIVATE_REPOS }}
         IGNORE_FORKED_REPOS: ${{ secrets.IGNORE_FORKED_REPOS }}
         IGNORE_ARCHIVED_REPOS: ${{ secrets.IGNORE_ARCHIVED_REPOS }}
