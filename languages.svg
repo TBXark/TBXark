@@ -90,7 +90,7 @@
                     <div>
                         <span class="progress">
                             
-                                <span style="background-color:#00ADD8; width:37.187%;" class="progress-item"/>
+                                <span style="background-color:#00ADD8; width:37.186%;" class="progress-item"/>
                             
                                 <span style="background-color:#F05138; width:28.628%;" class="progress-item"/>
                             
@@ -100,7 +100,7 @@
                             
                                 <span style="background-color:#3572A5; width:1.560%;" class="progress-item"/>
                             
-                                <span style="background-color:#427819; width:0.831%;" class="progress-item"/>
+                                <span style="background-color:#427819; width:0.833%;" class="progress-item"/>
                             
                                 <span style="background-color:#41b883; width:0.826%;" class="progress-item"/>
                             
@@ -136,7 +136,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Go</span>
-                                <span class="percent">37.187%</span>
+                                <span class="percent">37.186%</span>
                             </li>
                         
                             <li>
@@ -181,7 +181,7 @@
                                     <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
                                 </svg>
                                 <span class="lang">Makefile</span>
-                                <span class="percent">0.831%</span>
+                                <span class="percent">0.833%</span>
                             </li>
                         
                             <li>
