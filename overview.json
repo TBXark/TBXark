@@ -1,5 +1,5 @@
 {
-  "name": "tbxark",
+  "name": "TBXark",
   "items": [
     {
       "icon": "star",
@@ -9,7 +9,7 @@
     {
       "icon": "repo-forked",
       "name": "Forks",
-      "value": "1687"
+      "value": "1688"
     },
     {
       "icon": "diff",
