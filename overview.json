@@ -1,0 +1,35 @@
+{
+  "name": "tbxark",
+  "items": [
+    {
+      "icon": "star",
+      "name": "Stars",
+      "value": "9491"
+    },
+    {
+      "icon": "repo-forked",
+      "name": "Forks",
+      "value": "1687"
+    },
+    {
+      "icon": "diff",
+      "name": "Lines of code changed",
+      "value": "1785920"
+    },
+    {
+      "icon": "git-pull-request",
+      "name": "Total pull requests (2026)",
+      "value": "12"
+    },
+    {
+      "icon": "repo-push",
+      "name": "All-time contributions",
+      "value": "5845"
+    },
+    {
+      "icon": "repo",
+      "name": "Repositories with contributions",
+      "value": "125"
+    }
+  ]
+}
